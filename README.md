@@ -47,3 +47,5 @@ React, TypeScript.
 ## Contact
 
 - GitHub: [@Vxstxrg](https://github.com/Vxstxrg)
+- Tg: @Thehungrygreedymonster
+- Mail: lushnikovfr@gmail.com
